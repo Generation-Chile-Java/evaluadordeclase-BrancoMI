@@ -109,3 +109,5 @@ public class evaluadorDeClaseBranco {
         sc.close();
     }
 }
+
+
